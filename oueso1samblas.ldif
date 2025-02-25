@@ -1,0 +1,16 @@
+dn: ou=1ESOA,dc=samblas,dc=org
+objectClass: organizationalUnit
+ou: 1ESOA
+
+dn: ou=1ESOB,dc=samblas,dc=org
+objectClass: organizationalUnit
+ou: 1ESOB
+
+dn: ou=1ESOC,dc=samblas,dc=org
+objectClass: organizationalUnit
+ou: 1ESOC
+
+dn: ou=1ESOD,dc=samblas,dc=org
+objectClass: organizationalUnit
+ou: 1ESOD
+
